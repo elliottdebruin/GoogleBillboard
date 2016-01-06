@@ -8,7 +8,7 @@ public void setup()
 		double prime = Double.parseDouble(digits);
 		
 	     	if(isPrime(prime)==true){
-	     		System.out.println(prime);
+	     		System.out.println(digits);
 	    	}
 	}
 }  
